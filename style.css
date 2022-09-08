@@ -1,0 +1,11 @@
+:root {
+    --texto-principal: #FFFFFF;
+    --texto-cecundario: #c0c0c0c0;
+    --botao-azul: #167bf7;
+    --background: #00030c;
+
+}
+
+body {
+    background-color: var(--background);
+}
