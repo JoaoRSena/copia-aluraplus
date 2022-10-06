@@ -2,41 +2,25 @@
 
 ## Detalhes do projeto
 
-Projeto realizado para aprendizagem de um dos modelos para e-commerce utilizando o tema de livros, estruturando toda a base com sesões separadas em cara área e estrutura de cabeçalho/roda pé com listas para seus devidos links estruturado com divs
-
-No Cabeçalho temos um submenu ao clicar no link "categorias" com uma estilização de hover ao passar o mouse por cima de cada opção.
-A visualização deste efeito no uso do celular ou Tablet só é possivel ao clicar na categoria desejada.
+Projeto realizado para aprendizagem de um dos modelos de site estile stream, utilizando o tema dos cursos da Alura, estruturando toda a base com sesões separadas em cada área e estrutura de cabeçalho/roda pé com listas para seus devidos links estruturado com divs
 
 
 ![](https://user-images.githubusercontent.com/89817889/194430257-a68925c9-687d-4df5-853b-4d10073dd57f.jpg#vitrinedev)
 
 <div aligner="center">
-  <p>Na seção de novos lançamentos temos um scroll lateral para visualizar diferentes produtos, que foi feito utilizando uma biblioteca de swipe do javascript, podemos ter todo o codigo sendo chamado ao final na tag <script>
- 
-<div alingner="center">
-<img src="">
+<p>A cada sessão temos algumas das informações que o usuário vai ter como benefício ao se cadastrar e assinar a plataforma como mostrado no exemplo abaixo.
 </div>
 
-<p>Todo o projeto foi realizado com HTML, CSS e JavaScript, realizando assim todas as opções de scroll da tela lateral e responsividade, dando ao usuário mais opções de navegações como, celular, tablet, tv ou pc com diferentes tamanhos de tela.
-<p>Na barra de pesquisa feita com input type="search" foi estilizado para que tenha uma imagem pequena para ilustrar o que buscar em cada uma, toda essa estilização foi feita pelo css dando uma referência visual melhor ao usuário como mostrado abaixo.
-
 <div alingner="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/89817889/194429799-4256656c-1d08-459e-9b9b-2e5706733183.png">
 </div>
 
+<p>Todo o projeto foi realizado com HTML, CSS
 <p>Sua semantica esta estruturada seguindo as classes do HTML.
 
-<p>O css foi todo separado por seções na pasta Style para semantica e manter um cógigo mais limpo e reduzido, fando assim ficar amis facil de encontrar onde alterar caso necessário.
-<p>O rodapé foi todo alinhadao utilizando  display: flex; e justify-content: space-around; para mante-lo separado em colunas de forma que formace uma tabela invisivel para o designer da página.</div>
+<p>O rodapé foi todo alinhadao utilizando display: flex; justify-content: center; para dar esse aspécto centralizado e separação igualada.
 
 <div alingner="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/89817889/194429719-00c0e5bc-d4a2-402b-9d5b-1046be043b27.png">
 </div>
 
-<div aligner="center">
-<p> no CSS também foi utilizado o recurso de reset para poder configura-lo do zero e facilitar na elaboração da estrutura corretamente como desejado.
-  <p> Todo o cógido como dito anteriormente é responsivo utilizando o @media screen.
-    <p> O código foi iniciado utilizando a visualização mobile na referência do Iphone X e redimencionado para telas maiores com 1024px e 1728px.
-<p>Sua primeira ateração seria em janelas com (max-width: 1200px) seguido de outra apresentação caso a janela seja menor com (max-width: 960px)
-  <img scr="">
-</div>
