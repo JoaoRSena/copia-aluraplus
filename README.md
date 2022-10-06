@@ -7,9 +7,8 @@ Projeto realizado para aprendizagem de um dos modelos para e-commerce utilizando
 No Cabeçalho temos um submenu ao clicar no link "categorias" com uma estilização de hover ao passar o mouse por cima de cada opção.
 A visualização deste efeito no uso do celular ou Tablet só é possivel ao clicar na categoria desejada.
 
-<div aligner="center">
-<img src="https://user-images.githubusercontent.com/89817889/194430257-a68925c9-687d-4df5-853b-4d10073dd57f.jpg">
-</div>
+
+![](https://user-images.githubusercontent.com/89817889/194430257-a68925c9-687d-4df5-853b-4d10073dd57f.jpg#vitrinedev)
 
 <div aligner="center">
   <p>Na seção de novos lançamentos temos um scroll lateral para visualizar diferentes produtos, que foi feito utilizando uma biblioteca de swipe do javascript, podemos ter todo o codigo sendo chamado ao final na tag <script>
