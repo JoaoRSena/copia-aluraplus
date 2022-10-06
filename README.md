@@ -8,7 +8,7 @@ No Cabeçalho temos um submenu ao clicar no link "categorias" com uma estilizaç
 A visualização deste efeito no uso do celular ou Tablet só é possivel ao clicar na categoria desejada.
 
 <div aligner="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/89817889/194430257-a68925c9-687d-4df5-853b-4d10073dd57f.jpg">
 </div>
 
 <div aligner="center">
